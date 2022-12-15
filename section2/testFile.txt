@@ -1,0 +1,1 @@
+test file for lesson2_2_step8.py for work with files uploading to the site
